@@ -1,0 +1,29 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0pc 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background: white;
+    min-width: 40%;
+}
+.imageWrapper:hover .image{
+    transform: scale(1.5);
+}
+.image{
+    height: 200px;
+    width: 200px;
+    transition: .5s;
+}
+
+.imageWrapper{
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border: 2px solid #ddd;
+    border-radius: 50%;
+    margin: 20px 0px;
+
+}

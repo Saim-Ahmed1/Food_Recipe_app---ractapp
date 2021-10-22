@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Food_Recipe_app---ractapp/static/css/main.25ec611e.chunk.css",
+    "main.js": "/Food_Recipe_app---ractapp/static/js/main.0e55358f.chunk.js",
+    "main.js.map": "/Food_Recipe_app---ractapp/static/js/main.0e55358f.chunk.js.map",
+    "runtime-main.js": "/Food_Recipe_app---ractapp/static/js/runtime-main.1a59115c.js",
+    "runtime-main.js.map": "/Food_Recipe_app---ractapp/static/js/runtime-main.1a59115c.js.map",
+    "static/js/2.bdc2ab94.chunk.js": "/Food_Recipe_app---ractapp/static/js/2.bdc2ab94.chunk.js",
+    "static/js/2.bdc2ab94.chunk.js.map": "/Food_Recipe_app---ractapp/static/js/2.bdc2ab94.chunk.js.map",
+    "static/js/3.a6f01898.chunk.js": "/Food_Recipe_app---ractapp/static/js/3.a6f01898.chunk.js",
+    "static/js/3.a6f01898.chunk.js.map": "/Food_Recipe_app---ractapp/static/js/3.a6f01898.chunk.js.map",
+    "index.html": "/Food_Recipe_app---ractapp/index.html",
+    "static/css/main.25ec611e.chunk.css.map": "/Food_Recipe_app---ractapp/static/css/main.25ec611e.chunk.css.map",
+    "static/js/2.bdc2ab94.chunk.js.LICENSE.txt": "/Food_Recipe_app---ractapp/static/js/2.bdc2ab94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a59115c.js",
+    "static/js/2.bdc2ab94.chunk.js",
+    "static/css/main.25ec611e.chunk.css",
+    "static/js/main.0e55358f.chunk.js"
+  ]
+}

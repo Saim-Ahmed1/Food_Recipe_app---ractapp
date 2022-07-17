@@ -1,2 +1,2 @@
 # Food Recipe App
-https://saim-ahmed1.github.io/Food_Recipe_app---ractapp/
+https://saim-ahmed1.github.io/food_recipe
